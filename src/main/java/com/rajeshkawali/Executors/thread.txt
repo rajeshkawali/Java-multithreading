@@ -1,0 +1,6 @@
+Java has 4 types of pool
+
+1. newFixedThreadPool
+2.
+3.
+4.
